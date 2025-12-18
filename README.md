@@ -67,15 +67,24 @@ Interactive dashboards were created using **Tableau** and **Power BI** to:
 
 ## 📁 Project Structure
 
-├── data/ 
-│     └── telco_customer_churn.csv 
-├── notebooks/ 
-│     └── telco_churn_analysis.ipynb 
-├── sql/ 
-│     └── churn_analysis_queries.sql 
-├── dashboards/ 
-│       ├── powerbi_dashboard.pbix 
-│       └── tableau_dashboard.twb 
+telco-customer-churn-analysis/
+│
+├── data/
+│   ├── raw/
+│   │   └── telco_customer_churn.csv
+│   └── processed/
+│       └── telco_customer_churn_cleaned.csv
+│
+├── notebooks/
+│   └── telco_customer_churn_analysis.ipynb
+│
+├── sql/
+│   └── churn_analysis_queries.sql
+│
+├── dashboards/
+│   ├── powerbi_dashboard.pbix
+│   └── tableau_dashboard.twb
+│
 └── README.md
 
 ---
