@@ -67,7 +67,16 @@ Interactive dashboards were created using **Tableau** and **Power BI** to:
 
 ## 📁 Project Structure
 
-├── data/ │   └── telco_customer_churn.csv ├── notebooks/ │   └── telco_churn_analysis.ipynb ├── sql/ │   └── churn_analysis_queries.sql ├── dashboards/ │   ├── powerbi_dashboard.pbix │   └── tableau_dashboard.twb └── README.md
+├── data/ 
+│     └── telco_customer_churn.csv 
+├── notebooks/ 
+│     └── telco_churn_analysis.ipynb 
+├── sql/ 
+│     └── churn_analysis_queries.sql 
+├── dashboards/ 
+│       ├── powerbi_dashboard.pbix 
+│       └── tableau_dashboard.twb 
+└── README.md
 
 ---
 
@@ -75,13 +84,6 @@ Interactive dashboards were created using **Tableau** and **Power BI** to:
 - Enabled identification of **high-risk customer segments**
 - Supported **targeted retention strategies**
 - Improved understanding of customer behavior through data
-
----
-
-## 🔗 Project Links
-- 📂 **GitHub Repository**: _Add your GitHub link here_
-- 📊 **Tableau Dashboard**: _Add Tableau Public link_
-- 📈 **Power BI Dashboard**: _Add Power BI link_
 
 ---
 
